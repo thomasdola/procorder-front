@@ -31,7 +31,7 @@
   },
   "proxy": {
     "/api/admin": {
-      "target": "http://35.196.249.237",
+      "target": "http://localhost:4000",
       "secure": false,
       "ssl": false
     }
